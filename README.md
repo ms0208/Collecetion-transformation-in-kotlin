@@ -1,1 +1,1 @@
-# Collecetion-transformation-in-kotlin
+# Collection-transformation-in-kotlin
